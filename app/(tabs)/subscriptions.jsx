@@ -5,12 +5,12 @@ import { SafeAreaView } from "react-native-safe-area-context";
 
 // const SafeAreaView = styled(RNSafeAreaView);
 
-const Settings = () => {
+const Subscriptions = () => {
   return (
     <SafeAreaView className="flex bg-background p-5">
-      <Text>S</Text>
+      <Text>subscription</Text>
     </SafeAreaView>
   );
 };
 
-export default Settings;
+export default Subscriptions;
