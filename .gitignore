@@ -32,9 +32,14 @@ yarn-error.*
 
 # local env files
 .env*.local
+.env
+nativewind-env.d.ts
+.nativewind-env.d.ts
 
 # typescript
 *.tsbuildinfo
+
+app-example
 
 # generated native folders
 /ios
